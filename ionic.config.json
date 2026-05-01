@@ -1,0 +1,7 @@
+{
+  "name": "VisionAI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
