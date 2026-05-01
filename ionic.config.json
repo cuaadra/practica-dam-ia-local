@@ -1,7 +1,7 @@
 {
-  "name": "VisionAI",
+  "name": "IA Local DAM",
   "integrations": {
     "capacitor": {}
   },
-  "type": "vue-vite"
+  "type": "vue"
 }
